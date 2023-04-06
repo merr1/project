@@ -1,0 +1,18 @@
+
+.image{
+    width:50vw;
+    height:50vh;
+background-color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.container{
+    width:100vw;
+    height:100vh;
+    background-color: #323296;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

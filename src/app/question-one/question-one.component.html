@@ -1,0 +1,10 @@
+<div class="container">
+  <div class="image">
+    <h1>{{text}}</h1>
+
+    <button *ngIf="!checker" (click)="check()">sublit</button>
+    <button routerLink="/question-2"  *ngIf="checker">next</button>
+  </div>
+
+
+</div>
